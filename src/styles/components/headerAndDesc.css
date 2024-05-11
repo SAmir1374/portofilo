@@ -1,0 +1,21 @@
+.describeHeader {
+  color: #f2f2f2;
+}
+
+.describeHeader h3 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.describeHeader p {
+  font-size: 18px;
+  line-height: 1.6em;
+  margin: 20px 0;
+}
+
+.describeHeader a{
+  text-decoration: none;
+  font-size: 18px;
+  color: #f2f2f2;
+}

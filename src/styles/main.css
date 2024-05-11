@@ -1,0 +1,72 @@
+@import url("https://fonts.cdnfonts.com/css/dana");
+
+@font-face {
+  font-family: FingerPaint-Regular;
+  src: url("/public/fonts/FingerPaint-Regular.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #222;
+  color: #f2f2f2;
+}
+
+.arrowLeft {
+  position: fixed;
+  top: 50%;
+  left: 7%;
+  cursor: pointer;
+}
+
+.arrowRight {
+  position: fixed;
+  top: 50%;
+  right: 7%;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgb(47, 47, 47);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@media only screen and (max-width: 650px) {
+  .arrowLeft,
+  .arrowRight {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .arrowLeft,
+  .arrowRight {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .arrowLeft,
+  .arrowRight {
+    display: none;
+  }
+}

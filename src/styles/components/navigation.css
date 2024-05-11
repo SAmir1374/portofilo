@@ -1,0 +1,28 @@
+.navigation {
+  position: sticky;
+  top: 0;
+  background-color: rgba(46, 46, 46, 0.9);
+  z-index: 99999999;
+}
+
+.navigationList ul {
+  list-style: none;
+  display: flex;
+  justify-items: center;
+  gap: 20px;
+}
+
+.navigationList ul li {
+  font-size: 18px;
+}
+
+.navigationList ul li a{
+  text-decoration: none;
+  color: #f2f2f2;
+}
+
+@media (max-width: 670px) {
+  .navigationList ul {
+    gap: 40px;
+  }
+}

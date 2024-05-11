@@ -1,0 +1,68 @@
+.aboutContainer {
+  height: "100vh" !important;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.ReactType {
+  font-size: 18px;
+  margin: 20px;
+  line-height: 1.6em;
+  color: rgb(202, 202, 202);
+  min-height: 200px;
+  display: block;
+}
+
+.mainAboutPage {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  padding: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .aboutContainer{
+    width: 100% !important;
+    padding: 0;
+  }
+
+  .aboutContainer h1{
+    font-size: 1.6rem !important;
+  }
+
+  .mainAboutPage {
+    margin-top: 50px;
+    width: 100%;
+    padding: 0;
+  }
+}
+
+
+@media only screen and (max-width: 750px) {
+  .mainAboutPage{
+    width: 80%;
+  }
+}
+
+
+@media only screen and (max-width: 850px) {
+  .mainAboutPage{
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .mainAboutPage{
+    width: 80%;
+  }
+}
+
+
+@media only screen and (max-width: 1200px) {
+  .mainAboutPage{
+    width: 80%;
+  }
+}

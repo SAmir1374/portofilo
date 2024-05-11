@@ -1,0 +1,134 @@
+{
+  "About": {
+    "myName": "Amirmuhmammad",
+    "myLastName": "Aghayan",
+    "desc": "I am a junior Front-End developer skilled in the React library. I have experience working with popular frameworks and libraries such as Bootstrap, Tailwind CSS, and Material-UI, and I am proficient in using them to create beautiful and efficient user interfaces. Additionally, am familiar with TypeScript and use it to write stronger and maintainable code. I am passionate about continuing to learn and grow in this industry, and my goal is to create advanced user interfaces and improve the user experience in various projects. I am seeking opportunities to collaborate with creative and innovative teams to enhance my skills and contribute to the success of projects.",
+    "nextPage": "/skill"
+  },
+  "menu": [
+    { "name": "About", "href": "/" },
+    { "name": "Skill", "href": "/skill" },
+    { "name": "Contact", "href": "/contact" }
+  ],
+  "Skill": {
+    "titlePage": "web developer portfolio",
+    "descPage": "From Web Components to React.JS, Redux. Check out my latest web software development portfolio projects.",
+    "mySkills": [
+      "html",
+      "css",
+      "javascript",
+      "reactJS",
+      "mui",
+      "bootstrap",
+      "Tailwind css",
+      "axios",
+      "react multi date picker",
+      "formik",
+      "recharts",
+      "redux",
+      "redux-thunk",
+      "swiper",
+      "yup",
+      "react-query",
+      "typeScript"
+    ],
+    "projectDemo": "Demo",
+    "ProjectLabel": "Showing all projects.",
+    "ProjectAbout": "About this project",
+    "ProjectTechnical": "Technical Sheet",
+    "gitHubTitle": "Resources code",
+    "myProject": [
+      {
+        "id": "0",
+        "img": [
+          "/sample1/monitoring1.png",
+          "/sample1/monitoring2.png",
+          "/sample1/monitoring3.png",
+          "/sample1/monitoring4.png",
+          "/sample1/monitoring5.png",
+          "/sample1/monitoring6.png"
+        ],
+        "Demo":"https://samir1374.github.io/monitoringDemo/",
+        "tiket": "done",
+        "tiketColor": "rgb(72,163,89)",
+        "gitHubTitle": "Resources code",
+        "gitHub": "https://github.com/SAmir1374/traffic-jam-monitor.git",
+        "href": "/skill/0",
+        "title": "Monitoring Vistham Company",
+        "projectTitleLabel": "Monitoring react javascript web application",
+        "aboutProject": "The monitoring website was designed and built upon the request of the knowledge-based company, Behesystem. The goal of this project was to replace the company's existing monitoring website to provide better performance and features. I worked on this project as both a designer and front-end developer in a freelance capacity. \n The main challenges I faced during this project were working with charts, data analysis, and establishing connections with the server. I tackled these challenges by utilizing advanced tools and techniques in web design and development to find appropriate solutions. \n In the end, this project helped me enhance my skills in front-end design and development and contributed to improving the monitoring performance of Behesystem.",
+        "technicalSheetLabel": "Code technologies I got involved with while working on this project.",
+        "technicalSheet": [
+          "react",
+          "formik",
+          "yup",
+          "recharts",
+          "react multi date picker",
+          "swiper",
+          "react-query",
+          "redux",
+          "redux toolkit"
+        ]
+      },
+      {
+        "id": "1",
+        "img": [
+          "/sample2/taskManager1.png",
+          "/sample2/taskManager2.png",
+          "/sample2/taskManager3.png",
+          "/sample2/taskManager4.png",
+          "/sample2/taskManager5.png",
+          "/sample2/taskManager6.png",
+          "/sample2/taskManager7.png",
+          "/sample2/taskManager8.png",
+          "/sample2/taskManager9.png",
+          "/sample2/taskManager10.png"
+        ],
+        "Demo":"https://samir1374.github.io/TaskManagerDemo/",
+        "tiket": "working",
+        "tiketColor": "rgb(50,116,237)",
+        "gitHub": "https://github.com/Quera-Spring-Front-end-Bootcamp/Group-10.git",
+        "href": "/skill/1",
+        "title": "Task Manager",
+        "projectTitleLabel": "Task Manager react TypeScript web application",
+        "aboutProject": "Development of a task management program aimed at improving the organization and tracking of tasks for users. This project was carried out in a group with three other individuals under the supervision of a company mentor. The aim of the project was to practice real teamwork and learn collaboration in a professional environment. The program included key features such as creating, editing, deleting, and tracking tasks, as well as designing a user-friendly interface.",
+        "technicalSheetLabel": "Code technologies I got involved with while working on this project.",
+        "technicalSheet": [
+          "react",
+          "react-hook-form",
+          "yup",
+          "tailwind css",
+          "typeScript",
+          "drag and drop",
+          "react-query",
+          "redux toolkit"
+        ]
+      }
+    ],
+    "footer": {
+      "title": "Let's talk",
+      "desc": "Wanna get in touch or talk about a project? \n Feel free to contact me via email at  s.amir.79926@gmail.com \n or drop a line in the form at the <Link to= '/contact'>contact page<Link/>"
+    },
+    "nextPage": "/contact",
+    "prevPage": "/about"
+  },
+  "Contact": {
+    "titlePage": "Get in touch",
+    "descPage": "If you wanna get in touch, talk to me about a project collaboration or just say hi, fill up the awesome form below or send an email to s.amir.79926@gmail.com and ~let's talk.",
+    "inputs": [
+      { "name": "Fill with your name", "next": "next" },
+      { "email": "now your Email", "next": "next" },
+      { "message": "write your message", "next": "Send the message" }
+    ],
+    "footer": {
+      "titleFooter": "Let's get social",
+      "descFooter": "Follow my online profiles on Instagram, GitHub and Linkedin.",
+      "media": [
+        { "name": "Linkedin", "href": "" },
+        { "name": "GitHub", "href": "" },
+        { "name": "Instagram", "href": "" }
+      ]
+    },
+    "prevPage": "/skill"
+  }
+}

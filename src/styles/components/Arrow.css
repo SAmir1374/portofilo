@@ -1,0 +1,37 @@
+.arrowLeft:hover{
+    animation: shake 1s linear;
+}
+
+.arrowRight:hover{
+    animation: shakeRight 1s linear;
+}
+
+@keyframes shake {
+    0%{
+        transform: scale(2) translateX(-10px);
+    }
+    30%{
+        transform: scale(2) translateX(0);
+    }
+    60%{
+        transform: scale(2) translateX(-10px);
+    }
+    100%{
+        transform: scale(2) translateX(0);
+    }
+}
+
+@keyframes shakeRight {
+    0%{
+        transform: scale(2) translateX(10px);
+    }
+    30%{
+        transform: scale(2) translateX(0);
+    }
+    60%{
+        transform: scale(2) translateX(10px);
+    }
+    100%{
+        transform: scale(2) translateX(0);
+    }
+}

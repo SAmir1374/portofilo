@@ -1,0 +1,26 @@
+.tag {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0;
+}
+
+.tag li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  color: #f2f2f2;
+  opacity: 0.8;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 8px;
+  text-transform: uppercase;
+  text-decoration: none;
+  -webkit-box-shadow: 1px 3px 12px 0px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 1px 3px 12px 0px rgba(0, 0, 0, 0.7);
+  box-shadow: 1px 3px 12px 0px rgba(0, 0, 0, 0.7);
+}

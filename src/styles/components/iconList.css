@@ -1,0 +1,33 @@
+.iconList ul {
+  list-style: none;
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  gap: 30px;
+  margin-left: 0;
+  margin-top: 20px;
+}
+
+.iconList ul li {
+  padding: 12px;
+  border-radius: 12px;
+}
+
+.iconList ul li a {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  color: #f2f2f2;
+}
+
+@media only screen and (max-width: 680px) {
+  .iconList ul li{
+    padding: 8px;
+  }
+  
+  .iconList ul li a{
+    gap: 5px !important;
+  }
+}

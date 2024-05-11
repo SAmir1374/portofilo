@@ -1,0 +1,77 @@
+.contactContainer {
+  height: fit-content;
+  width: 70% !important;
+  padding: 80px 40px !important;
+  color: #f2f2f2;
+}
+
+.contactContainer .contactTitle h3 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+
+.contactContainer .contactTitle p {
+  font-size: 18px;
+  line-height: 1.6em;
+  margin-bottom: 20px;
+}
+
+.contactContainer .contactFooterIcons {
+  padding-bottom: 70px;
+}
+
+.contactContainer .contactFooterIcons h3 {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.contactContainer .contactFooterIcons p {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+
+
+
+@media only screen and (max-width: 680px) {
+  .contactContainer {
+    width: 90% !important;
+  }
+
+  .iconList ul {
+    gap: 5px !important;
+  }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 700px) {
+  /* .contactContainer {
+    width: 100% !important;
+  } */
+  
+  .iconList ul {
+    gap: 5px !important;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .iconList ul {
+    gap: 5px !important;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .contactContainer .arrowLeft,
+  .contactContainer .arrowRight {
+    display: none;
+  }
+
+  .iconList ul {
+    gap: 5px !important;
+  }
+}

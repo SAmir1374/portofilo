@@ -1,0 +1,134 @@
+{
+  "menu": [
+    { "name": "درباره من", "href": "/" },
+    { "name": "توانایی", "href": "/skill" },
+    { "name": "ارتباط", "href": "/contact" }
+  ],
+  "About": {
+    "myName": "امیرمحمد",
+    "myLastName": "آقایان",
+    "desc": "من یک توسعه دهنده جونیور فرانت اند هستم که در استفاده از کتابخانه ریکت , بوت استرپ , تلویند سی اس اس ,و متریال یو ای مهارت دارم و برای نوشتن کد های قوی وقابل نگهداری از آن ها استفاده می کنم . من با زبان تایپ اسکریپت هم آشنا هستم . من به دنبال فرصتی برای همکاری با تیم های خلاق و نوآور هستم تا مهارت هایم را افزایش دهم و به موفقیت پروژه ها کمک کنم",
+    "nextPage": "/skill"
+  },
+  "Skill": {
+    "titlePage": "توانایی ها و نمونه کار",
+    "descPage": "به پروژه های من از ریداکس تا ریکت و ... نگاه به اندازید",
+    "mySkills": [
+      "html",
+      "css",
+      "javascript",
+      "reactJS",
+      "mui",
+      "bootstrap",
+      "Tailwind css",
+      "axios",
+      "react multi date picker",
+      "formik",
+      "recharts",
+      "redux",
+      "redux-thunk",
+      "swiper",
+      "yup",
+      "react-query",
+      "typeScript"
+    ],
+    "projectDemo": "نمایش",
+    "ProjectLabel": "نمایش همه پروژه ها",
+    "ProjectAbout": "در مورد این پروژه",
+    "ProjectTechnical": "لیست فنی",
+    "gitHubTitle": "کد در گیت‌هاب",
+    "myProject": [
+      {
+        "id": "0",
+        "img": [
+          "/sample1/monitoring2.png",
+          "/sample1/monitoring1.png",
+          "/sample1/monitoring3.png",
+          "/sample1/monitoring4.png",
+          "/sample1/monitoring5.png",
+          "/sample1/monitoring6.png"
+        ],
+        "Demo":"https://samir1374.github.io/monitoringDemo/",
+        "tiket": "done",
+        "tiketColor": "rgb(72,163,89)",
+        "gitHub": "https://github.com/SAmir1374/traffic-jam-monitor.git",
+        "href": "/skill/0",
+        "title": "سیستم مانیتورینگ شرکت بهسیستم",
+        "projectTitleLabel": "سایت مانیتورینگ با استفاده از جاوااسکریپت و ریکت",
+        "aboutProject": " سایت مانیتورینگ به درخواست شرکت دانش‌بنیان بهسیستم طراحی و ساخته شد. هدف از ساخت این سایت جایگزینی آن با وب‌سایت مانیتورینگ فعلی شرکت بود تا عملکرد بهتری ارائه دهد. من در این پروژه به عنوان طراح و برنامه‌نویس فرانت‌اند فعالیت داشتم و به صورت فریلنسری کار کردم.\n چالش‌های اصلی من شامل کار با نمودارها، تحلیل داده‌ها و ایجاد ارتباط با سرور بود. با این چالش‌ها به کمک بهره‌گیری از ابزارها و تکنیک‌های پیشرفته در طراحی و توسعه وب‌سایت روبرو شدم و موفق شدم راه‌حل‌های مناسبی را پیدا کنم \n در نهایت، این پروژه باعث ارتقای مهارت‌های من در زمینه طراحی و برنامه‌نویسی فرانت‌اند شد و به بهبود عملکرد مانیتورینگ شرکت بهسیستم کمک کرد..        ",
+        "technicalSheetLabel": "برای حل مسائل فنی پروژه از تکنولوژی های زیر استفاده شده",
+        "technicalSheet": [
+          "react",
+          "formik",
+          "yup",
+          "recharts",
+          "react multi date picker",
+          "swiper",
+          "react-query",
+          "redux",
+          "redux toolkit"
+        ]
+      },
+      {
+        "id": "1",
+        "img": [
+          "/sample2/taskManager1.png",
+          "/sample2/taskManager2.png",
+          "/sample2/taskManager3.png",
+          "/sample2/taskManager4.png",
+          "/sample2/taskManager5.png",
+          "/sample2/taskManager6.png",
+          "/sample2/taskManager7.png",
+          "/sample2/taskManager8.png",
+          "/sample2/taskManager9.png",
+          "/sample2/taskManager10.png"
+        ],
+        "Demo":"https://samir1374.github.io/TaskManagerDemo/",
+        "tiket": "working",
+        "tiketColor": "rgb(50,116,237)",
+        "gitHub": "https://github.com/Quera-Spring-Front-end-Bootcamp/Group-10.git",
+        "href": "/skill/1",
+        "title": "مدیریت وظایف کوئرا",
+        "projectTitleLabel": "شرکت در توسعه یک برنامه مدیریت وظایف به صورت گروهی با سه نفر دیگر تحت نظر مربی شرکت. ",
+        "aboutProject": " توسعه یک برنامه مدیریت وظایف با هدف بهبود سازماندهی و پیگیری کارها برای کاربران. این پروژه به صورت گروهی با دو نفر دیگر تحت نظر مربی شرکت انجام شد. هدف پروژه، تمرین کار تیمی واقعی و یادگیری همکاری در محیط حرفه‌ای بود. برنامه شامل ویژگی‌های کلیدی مانند ایجاد، ویرایش، حذف و پیگیری وظایف، و همچنین طراحی رابط کاربری کاربرپسند بود.",
+        "technicalSheetLabel": "برای حل مسائل فنی پروژه از تکنولوژی های زیر استفاده شده",
+        "technicalSheet": [
+          "react",
+          "react-hook-form",
+          "yup",
+          "tailwind css",
+          "typeScript",
+          "drag and drop",
+          "react-query",
+          "redux toolkit"
+        ]
+      }
+    ],
+    "footer": {
+      "title": "بیا گفتگو کنیم",
+      "desc": "در مورد پروژه ها نظری داری؟ \n یا به ایمیل من نظرتو بفرست پس به صفحه تماس برو"
+    },
+    "nextPage": "/contact",
+    "prevPage": "/about"
+  },
+  "Contact": {
+    "titlePage": "در تماس باشید",
+    "descPage": "اگر می‌خواهید با من در تماس باشید، در مورد همکاری در پروژه صحبت کنید یا فقط سلامی بفرستید، فرم جذاب زیر را پر کنید یا یک ایمیل به آدرس زیر بفرستید",
+    "email": "s.amir.79926@gmail.com",
+    "inputs": [
+      { "name": "با نام خو پر کنید", "next": "بعدی" },
+      { "email": "حالا ایمیل خود را وارد کنید", "next": "بعدی" },
+      { "message": "پیام خود را بنویسید", "next": "ارسال پیام" }
+    ],
+    "footer": {
+      "titleFooter": "بیایید اجتماعی شویم",
+      "descFooter": "پروفایل‌های آنلاین من را در اینستاگرام، گیت‌هاب و لینکدین دنبال کنید.",
+      "media": [
+        { "name": "Linkedin", "href": "" },
+        { "name": "GitHub", "href": "" },
+        { "name": "Instagram", "href": "" }
+      ]
+    },
+    "prevPage": "/skill"
+  }
+}
