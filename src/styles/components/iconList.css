@@ -22,6 +22,53 @@
   color: #f2f2f2;
 }
 
+@media only screen and (max-width: 350px) {
+  .iconList ul{
+    flex-direction: column !important;
+  }
+  
+  .iconList ul li{
+    padding: 8px;
+  }
+  
+  .iconList ul li a{
+    gap: 5px !important;
+  }
+}
+
+
+
+@media only screen and (max-width: 400px) {
+  .iconList ul{
+    flex-direction: column !important;
+  }
+
+  .iconList ul li{
+    padding: 8px;
+  }
+  
+  .iconList ul li a{
+    gap: 5px !important;
+  }
+}
+
+
+@media only screen and (max-width: 500px) {
+  .iconList ul{
+    flex-direction: column !important;
+  }
+
+  .iconList ul li{
+    padding: 8px;
+  }
+  
+  .iconList ul li a{
+    gap: 5px !important;
+  }
+}
+
+
+
 @media only screen and (max-width: 680px) {
   .iconList ul li{
     padding: 8px;

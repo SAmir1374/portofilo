@@ -41,14 +41,14 @@
       {
         "id": "0",
         "img": [
-          "/sample1/monitoring2.png",
-          "/sample1/monitoring1.png",
-          "/sample1/monitoring3.png",
-          "/sample1/monitoring4.png",
-          "/sample1/monitoring5.png",
-          "/sample1/monitoring6.png"
+          "/portofilo/sample1/monitoring1.png",
+          "/portofilo/sample1/monitoring2.png",
+          "/portofilo/sample1/monitoring3.png",
+          "/portofilo/sample1/monitoring4.png",
+          "/portofilo/sample1/monitoring5.png",
+          "/portofilo/sample1/monitoring6.png"
         ],
-        "Demo":"https://samir1374.github.io/monitoringDemo/",
+        "Demo": "https://samir1374.github.io/monitoringDemo/",
         "tiket": "done",
         "tiketColor": "rgb(72,163,89)",
         "gitHub": "https://github.com/SAmir1374/traffic-jam-monitor.git",
@@ -72,18 +72,18 @@
       {
         "id": "1",
         "img": [
-          "/sample2/taskManager1.png",
-          "/sample2/taskManager2.png",
-          "/sample2/taskManager3.png",
-          "/sample2/taskManager4.png",
-          "/sample2/taskManager5.png",
-          "/sample2/taskManager6.png",
-          "/sample2/taskManager7.png",
-          "/sample2/taskManager8.png",
-          "/sample2/taskManager9.png",
-          "/sample2/taskManager10.png"
+          "/portofilo/sample2/taskManager1.png",
+          "/portofilo/sample2/taskManager2.png",
+          "/portofilo/sample2/taskManager3.png",
+          "/portofilo/sample2/taskManager4.png",
+          "/portofilo/sample2/taskManager5.png",
+          "/portofilo/sample2/taskManager6.png",
+          "/portofilo/sample2/taskManager7.png",
+          "/portofilo/sample2/taskManager8.png",
+          "/portofilo/sample2/taskManager9.png",
+          "/portofilo/sample2/taskManager10.png"
         ],
-        "Demo":"https://samir1374.github.io/TaskManagerDemo/",
+        "Demo": "https://samir1374.github.io/TaskManagerDemo/",
         "tiket": "working",
         "tiketColor": "rgb(50,116,237)",
         "gitHub": "https://github.com/Quera-Spring-Front-end-Bootcamp/Group-10.git",
