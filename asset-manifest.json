@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portofilo/static/css/main.2bbc4a33.css",
-    "main.js": "/portofilo/static/js/main.f874eace.js",
+    "main.css": "/portofilo/static/css/main.7d766aa8.css",
+    "main.js": "/portofilo/static/js/main.e55bc6b4.js",
     "static/media/FingerPaint-Regular.ttf": "/portofilo/static/media/FingerPaint-Regular.3c3a9cdbff527a1cdb37.ttf",
     "static/media/images.jpg": "/portofilo/static/media/images.1e1cfd9239f56cb4c709.jpg",
     "index.html": "/portofilo/index.html",
-    "main.2bbc4a33.css.map": "/portofilo/static/css/main.2bbc4a33.css.map",
-    "main.f874eace.js.map": "/portofilo/static/js/main.f874eace.js.map"
+    "main.7d766aa8.css.map": "/portofilo/static/css/main.7d766aa8.css.map",
+    "main.e55bc6b4.js.map": "/portofilo/static/js/main.e55bc6b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bbc4a33.css",
-    "static/js/main.f874eace.js"
+    "static/css/main.7d766aa8.css",
+    "static/js/main.e55bc6b4.js"
   ]
 }
